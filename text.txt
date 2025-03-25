@@ -1,0 +1,2 @@
+one more text with space
+fixed major bug
